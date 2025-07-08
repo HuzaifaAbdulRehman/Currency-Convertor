@@ -1,6 +1,6 @@
 # Currency Converter
 
-A simple, responsive web-based currency converter that allows users to convert amounts between different currencies using real-time exchange rates.
+A simple web-based currency converter that allows users to convert amounts between different currencies using real-time exchange rates.
 
 ## Features
 
