@@ -7,7 +7,6 @@ A simple, responsive web-based currency converter that allows users to convert a
 - Convert between multiple currencies
 - Real-time exchange rates
 - User-friendly interface
-- Responsive design
 
 ## How to Use
 
